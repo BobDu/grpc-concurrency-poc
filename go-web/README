@@ -1,0 +1,6 @@
+
+go build
+
+./go
+
+curl http://localhost:50051/aaa
